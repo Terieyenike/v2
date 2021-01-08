@@ -18,13 +18,14 @@ import {
 } from 'react-icons/fi';
 
 const Footer = () => {
+  const year = new Date().getFullYear();
   return (
     <>
       <Section>
         <Container>
           <Div>
             <FirstColumn>
-              <Paragraph>&copy; 2021 Teri.</Paragraph>
+              <Paragraph>&copy; {year} Teri.</Paragraph>
             </FirstColumn>
             <SecondColumn>
               <Paragraph>
