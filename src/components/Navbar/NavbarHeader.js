@@ -43,7 +43,7 @@ const NavbarHeader = () => {
               </li>
               <li>
                 <a
-                  href='https://bit.ly/2Kb4C7u'
+                  href='http://bit.ly/3nsqgls'
                   rel='noopener noreferrer'
                   target='_blank'
                   className='resume'>
