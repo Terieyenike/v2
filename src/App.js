@@ -11,7 +11,7 @@ function App() {
       <GlobalStyle />
       <Navbar />
       <Switch>
-        <Route path='/' exact component={Home} />
+        <Route path='/v2' exact component={Home} />
         <Route component={Error} />
       </Switch>
     </>
