@@ -2,7 +2,6 @@
 import React, { useState } from 'react';
 import { FiAlignRight } from 'react-icons/fi';
 import { NavContainer, Header, Div, NavHeader } from './Navbar.style';
-// import { Link } from 'react-router-dom';
 
 const NavbarHeader = () => {
   const [isOpen, setIsOpen] = useState(false);
