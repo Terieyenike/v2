@@ -23,7 +23,9 @@ const NavbarHeader = () => {
                 <FiAlignRight className='nav-icon' />
               </button>
             </NavHeader>
-            <ul className={isOpen ? 'show-nav nav-links' : 'nav-links'}>
+            <ul
+              className={isOpen ? 'show-nav nav-links' : 'nav-links'}
+              onClick={handleToggle}>
               <li>
                 <a href='#about'>About</a>
               </li>
