@@ -63,12 +63,4 @@ class Work extends React.Component {
   }
 }
 
-// const Work = () => {
-//   const [itemsToShow, setItemsToShow] = useState(4);
-//   const [expanded, setExpanded] = useState(false);
-
-//   const showMore = () => {
-//     itemsToShow === 4 ? setItemsToShow(itemsToShow: projects.length), setExpanded(true} : )
-//   };
-
 export default Work;
