@@ -16,7 +16,7 @@ const Error = () => {
               Teri is a software engineer based in Lagos, Nigeria. Want to find
               out more?
             </p>
-            <Link to='/'>back to homepage</Link>
+            <Link to='/v2'>back to homepage</Link>
           </Div>
         </Container>
       </Section>
