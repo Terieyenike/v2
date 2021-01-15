@@ -1,4 +1,4 @@
-Current version of [teri.netlify.app](https://teri.netlify.app) built with [React](http://reactjs.org/) and hosted/deployed on [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform/)
+Current version of [terieyenike.github.io/v2](https://terieyenike.github.io/v2/) built with [React](http://reactjs.org/) and hosted/deployed on [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform/)
 
 Previous iteration: [v1](https://terieyenike.github.io/v1), [v2](https://terieyenike.github.io/v2/)
 
@@ -40,7 +40,7 @@ npm run serve
 
 ## 🌐 Deploying the App
 
-Click this button to deploy the app to the DigitalOcean App Platform
+Using Github Pages.
 
 ## Tech stack used for build
 
