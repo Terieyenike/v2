@@ -1,6 +1,16 @@
 const projects = [
   {
     id: 0,
+    title: 'Smart brain',
+    description:
+      'Face Recognition with a bounding box to identify the capture of the face using Clarifai API',
+    image:
+      'https://user-images.githubusercontent.com/25850598/106399190-74b55b80-6417-11eb-8aab-79728e3c0073.png',
+    link: 'https://facesrecog.netlify.app/',
+    source: 'https://github.com/Terieyenike/facerecognition',
+  },
+  {
+    id: 1,
     title: 'Monster Rolodex',
     description:
       'Search and filter through this monsters using the search bar. It is quick and responsive.',
@@ -10,7 +20,7 @@ const projects = [
     source: 'https://github.com/Terieyenike/rolodex',
   },
   {
-    id: 1,
+    id: 2,
     title: 'Search Pexels Photos',
     description:
       'This project gives the user the opportunity to search the Pexels photo library. It also uses the Pexels API search endpoint to fetch its data.',
@@ -20,7 +30,7 @@ const projects = [
     source: 'https://github.com/Terieyenike/pexels-vue',
   },
   {
-    id: 2,
+    id: 3,
     title: 'Beer Lovers',
     description:
       'Get the hoppiness and alcoholic levels of each beer from its Punk API.',
@@ -30,7 +40,7 @@ const projects = [
     source: 'https://github.com/Terieyenike/punkbeer',
   },
   {
-    id: 3,
+    id: 4,
     title: 'Light/dark theme',
     description: 'Light/dark theme feature for this one-page website.',
     image:
@@ -39,7 +49,7 @@ const projects = [
     source: 'https://github.com/Terieyenike/Reefit',
   },
   {
-    id: 4,
+    id: 5,
     title: 'Subscribe to email list',
     description:
       'Landing page where users can enter their details to subscribe to a newsletter. This app makes use of MailChimp API.',
@@ -49,7 +59,7 @@ const projects = [
     source: 'https://github.com/Terieyenike/Newsletter',
   },
   {
-    id: 5,
+    id: 6,
     title: 'Infinite Scroll',
     description:
       'Continuously load a new photo. This application use the Unsplash API to fetch random photos.',
@@ -60,7 +70,7 @@ const projects = [
   },
 
   {
-    id: 6,
+    id: 7,
     title: 'Vue Unsplash',
     description: 'You can search collection of photos from the Unsplash API.',
     image:
@@ -69,7 +79,7 @@ const projects = [
     source: 'https://github.com/Terieyenike/unsplash-vue',
   },
   {
-    id: 7,
+    id: 8,
     title: 'Quote Generator',
     description:
       'Want to know about quotes from the past? Use this simple app to boost your day.',
@@ -79,7 +89,7 @@ const projects = [
     source: 'https://github.com/Terieyenike/quotegenerator',
   },
   {
-    id: 8,
+    id: 9,
     title: 'Loan calculator',
     description:
       'Loan calculator helps you calculate your yield based on the number of years you plan to repay back the money.',
@@ -89,7 +99,7 @@ const projects = [
     source: 'https://github.com/Terieyenike/loancalculator',
   },
   {
-    id: 9,
+    id: 10,
     title: 'User form',
     description: 'Type check your user form with Regex.',
     image:
@@ -98,7 +108,7 @@ const projects = [
     source: 'https://github.com/Terieyenike/userform',
   },
   {
-    id: 10,
+    id: 11,
     title: 'Daily Todo',
     description: 'Delete, filter, and add your daily todos.',
     image:

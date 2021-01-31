@@ -46,9 +46,6 @@ class Work extends React.Component {
                     </Icons>
                     <h2>{project.title}</h2>
                     <p className='desc'>{project.description}</p>
-                    {/* <Tools>
-                    <p></p>
-                  </Tools> */}
                   </Box>
                 );
               })}
