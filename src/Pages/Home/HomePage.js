@@ -18,9 +18,7 @@ const Home = () => {
             <h2>Teri Eyenike.</h2>
             <h3>I build things for the web.</h3>
             <p>
-              I'm a software engineer based in Lagos, Nigeria specialising in
-              building applications and using technologies making websites
-              accessible for all.
+              I'm a software engineer based in Lagos, Nigeria, and I specialise in building web applications with ReactJS and am passionate about the JavaScript ecosystem.
             </p>
             <MailTo
               email='developedbyteri@gmail.com'
