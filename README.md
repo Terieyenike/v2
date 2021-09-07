@@ -1,3 +1,7 @@
+# Teri's Portfolio 
+
+The web interface built with ReactJS.
+
 Current version of [terieyenike.github.io/v2](https://terieyenike.github.io/v2/) built with [React](http://reactjs.org/) and hosted/deployed on [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform/)
 
 Previous iteration: [v1](https://terieyenike.github.io/v1), [v2](https://terieyenike.github.io/v2/)
